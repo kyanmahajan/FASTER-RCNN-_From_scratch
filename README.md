@@ -8,25 +8,6 @@ The implementation caters to batch size of 1 only and uses roi pooling on single
 The repo is meant to train faster r-cnn on voc dataset. Specifically I trained on VOC 2007 dataset.
 
 
-## Faster R-CNN Explanation Video
-
-<a href="https://youtu.be/itjQT-gFQBY">
-   <img alt="Faster R-CNN Explanation" src="https://github.com/explainingai-code/FasterRCNN-PyTorch/assets/144267687/4da49766-d216-4c5a-b619-44ab269e0a7b"
-   width="300">
-</a>
-
-## Faster R-CNN Implementation Video
-
-<a href="https://youtu.be/Qq1yfWDdj5Y">
-   <img alt="Faster R-CNN Implementation" src="https://github.com/explainingai-code/FasterRCNN-PyTorch/assets/144267687/fc24c80f-4ddf-45e7-ad1d-9989bc978f10"
-   width="300">
-</a>
-
-## Faster R-CNN PyTorch Code Walkthrough Video
-<a href="https://www.youtube.com/watch?v=YA7BqiUTCwM">
-   <img alt="Faster R-CNN Implementation" src="https://github.com/explainingai-code/FasterRCNN-PyTorch/assets/144267687/d6d9a889-abbb-42c3-92df-635ff4457bb4"
-   width="300">
-</a>
 
 
 ## Sample Output by training Faster R-CNN on VOC 2007 dataset 
